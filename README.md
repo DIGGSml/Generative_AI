@@ -1,6 +1,6 @@
 # Generative_AI
 
-A collaborative repository for developing, sharing, and experimenting with system prompts for Large Language Models (LLMs) by DIGGS.
+A collaborative repository for developing, sharing, and experimenting with system prompts for Large Language Models (LLMs) for DIGGS understanding and conversions.
 
 ## About this Repository
 
