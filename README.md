@@ -44,14 +44,6 @@ While commercial models dominate headlines, the open source ecosystem is rapidly
 - Fine-tuning approaches for specialized use cases
 - Community developments and emerging models
 
-## Repository Structure
-├── system-prompts/         # Library of system prompts with documentation
-├── model-comparisons/      # Analysis and comparisons of different LLMs
-├── tool-integration/       # Examples and best practices for tool use
-├── open-source-models/     # Resources for working with open source alternatives
-├── experiments/            # Results from prompt engineering experiments
-└── templates/              # Reusable templates for common prompt patterns
-
 ## Contributing
 
 We welcome contributions from the DIGGS community! 
